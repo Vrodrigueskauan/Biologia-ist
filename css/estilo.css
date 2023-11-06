@@ -1,0 +1,42 @@
+.cornavb{
+    background-color: rgb(179, 39, 39);
+}
+
+.cortxt{
+    color: white;
+}
+
+.corbt{
+    color: rgb(216, 58, 10);
+}
+
+.conteudo{
+    width: 80%;
+    background-color: rgb(179, 39, 39);
+    box-shadow: -10px 10px rgb(134, 30, 30);;
+}
+
+.espaco{
+    padding-top: 5%;
+    padding-bottom: 5% ;
+}
+
+.h12{
+    text-align-last: center;
+    text-align: center;
+    color: white;
+    width: 1%;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 1%;
+    padding-right: 0%;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+.corbody{
+    background-color: rgb(255, 255, 255);
+}
